@@ -5,7 +5,11 @@
       "default": true
     }
   ],
+<<<<<<< HEAD
   "name": "plants",
+=======
+  "name": "septiembre",
+>>>>>>> 6dbcb49 (Initial Commit)
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "58.0"
